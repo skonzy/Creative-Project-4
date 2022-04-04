@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@syncfusion/ej2-vue-dropdowns": "^19.4.56"
+  }
+}
